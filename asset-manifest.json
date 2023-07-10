@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Posts-async-await/static/css/main.5c11bac6.css",
+    "main.js": "/Posts-async-await/static/js/main.3c5511f1.js",
+    "index.html": "/Posts-async-await/index.html",
+    "main.5c11bac6.css.map": "/Posts-async-await/static/css/main.5c11bac6.css.map",
+    "main.3c5511f1.js.map": "/Posts-async-await/static/js/main.3c5511f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c11bac6.css",
+    "static/js/main.3c5511f1.js"
+  ]
+}
